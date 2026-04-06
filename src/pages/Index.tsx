@@ -9,6 +9,7 @@ const Index = () => {
         src="/jemafer_web.html" 
         className="w-full h-full border-none"
         title="Droguería Jemafer S.A.C."
+        id="main-frame"
       />
     </div>
   );
